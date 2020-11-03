@@ -1,0 +1,20 @@
+body {
+  font-family: Lato;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 30px;
+}
+.Signup-text-style {
+  margin-left: 5px;
+  color: #003399;
+}
+.login-text-style {
+  margin-left: 5px;
+  color: #003399;
+}
+.login-fp-text-style {
+  margin-left: 150px;
+  color: #003399;
+  text-align: right;
+}
